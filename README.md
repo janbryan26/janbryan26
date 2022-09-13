@@ -3,4 +3,4 @@
 
 
 
-https://komarev.com/ghpvc/?username=janbryan26&color=green
+![](https://komarev.com/ghpvc/?username=janbryan26&color=lightgrey)
