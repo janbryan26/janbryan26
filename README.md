@@ -10,4 +10,4 @@
 
 
 ## Languages
-[](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=whit)
+![S](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=whit)
