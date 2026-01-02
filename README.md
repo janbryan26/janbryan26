@@ -1,5 +1,6 @@
 # Janbryan Lozada
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=5A5A5A&width=435&lines=Web+Developer;Telegram+Bot+Developer)](https://git.io/typing-svg)
 
 ## Languages and Tools
 
